@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" />
-</p>
+<h1 align="center">
+  ✨ Hey, I'm Pooja Nagavalli ✨
+</h1>
 
 <p align="center">
   <b>DevOps Enthusiast | Oracle DBA | Automation Engineer</b>
 </p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=4A90E2&center=true&vCenter=true&width=600&lines=Automation+%7C+Cloud+%7C+Infrastructure;Building+Scalable+%26+Reliable+Systems" />
