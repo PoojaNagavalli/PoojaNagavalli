@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=180&section=header&text=Pooja%20Nagavalli&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
+</p>
+
 <h1 align="center">
   ✨ Hey, I'm Pooja Nagavalli ✨
 </h1>
