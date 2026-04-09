@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Pooja
 
-<!--
-**PoojaNagavalli/PoojaNagavalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Docker & DevOps projects
+- 🌱 I’m learning Kubernetes & AWS
+- 👯 I’m looking to collaborate on DevOps projects
+- 💬 Ask me about Docker, GitHub, Linux
+- 📫 How to reach me: your-email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,kubernetes" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoojaNagavalli&show_icons=true)
+
+---
+
+### 🔥 Streak Stats:
+![GitHub Streak](https://streak-stats.demolab.com?user=PoojaNagavalli)
