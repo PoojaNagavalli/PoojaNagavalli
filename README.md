@@ -1,13 +1,15 @@
 <p align="center">
-  <h1 align="center">✨ Hey, I'm Pooja Nagavalli ✨</h1>
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=4A90E2&center=true&vCenter=true&width=700&lines=DevOps+Enthusiast;Oracle+Database+Administrator;Automation+%7C+Cloud+%7C+Infrastructure;Building+Scalable+%26+Reliable+Systems" />
+  <b>DevOps Enthusiast | Oracle DBA | Automation Engineer</b>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:4A90E2&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=4A90E2&center=true&vCenter=true&width=600&lines=Automation+%7C+Cloud+%7C+Infrastructure;Building+Scalable+%26+Reliable+Systems" />
 </p>
 
 ---
@@ -81,7 +83,3 @@ Focused on designing **scalable, reliable, and automated systems** aligned with 
 > "Great systems are built on reliability, automation, and continuous improvement."
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:4A90E2&height=3" />
-</p>
