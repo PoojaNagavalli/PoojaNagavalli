@@ -15,12 +15,55 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,ansible,jenkins,terraform" />
+
+<a href="https://aws.amazon.com/">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</a>
+
+<a href="https://www.docker.com/">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+
+<a href="https://kubernetes.io/">
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+</a>
+
+<a href="https://www.linux.org/">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</a>
+
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.ansible.com/">
+  <img src="https://skillicons.dev/icons?i=ansible" />
+</a>
+
+<a href="https://www.jenkins.io/">
+  <img src="https://skillicons.dev/icons?i=jenkins" />
+</a>
+
+<a href="https://www.terraform.io/">
+  <img src="https://skillicons.dev/icons?i=terraform" />
+</a>
+
 </p>
 
 <p align="center">
+
+<a href="https://www.oracle.com/database/">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+
+<a href="https://www.selenium.dev/">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</a>
+
 </p>
 
 ---
