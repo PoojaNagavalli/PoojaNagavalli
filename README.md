@@ -1,14 +1,10 @@
 <p align="center">
-  <h1 align="center">👋 Pooja Nagavalli</h1>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Pooja%20Nagavalli&fontSize=40&color=0:4A90E2,100:6FB1FC&fontColor=ffffff" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=4A90E2&center=true&vCenter=true&width=700&lines=DevOps+Enthusiast;Oracle+Database+Administrator;Automation+%7C+Cloud+%7C+Infrastructure;Building+Efficient+%26+Scalable+Systems" />
 </p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:6FB1FC&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=28&fontColor=ffffff" />
 
 ---
 
@@ -21,14 +17,11 @@ Currently expanding expertise in **cloud technologies, CI/CD pipelines, and infr
 
 ---
 
-## ⚙️ Core Skills
+## ⚙️ Tech Stack
 
-* **Database Management:** Oracle Database Administration
-* **DevOps & Cloud:** AWS, CI/CD, Infrastructure Concepts
-* **Automation Tools:** Ansible, Jenkins
-* **Containerization:** Docker, Kubernetes
-* **Testing & QA:** Selenium Automation Testing
-* **System & Version Control:** Linux, Git, GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,ansible,jenkins,terraform" />
+</p>
 
 ---
 
