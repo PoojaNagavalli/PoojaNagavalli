@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=4A90E2&center=true&vCenter=true&width=700&lines=DevOps+Engineer;CI/CD+%7C+Cloud+%7C+Automation;Docker+%7C+Terraform+%7C+Jenkins;Building+Scalable+%26+Reliable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2600&pause=1200&color=4A90E2&center=true&vCenter=true&width=800&lines=DEVOPS+ENGINEER;AUTOMATION+%7C+CI/CD+PIPELINES;CLOUD+%7C+DOCKER+%7C+TERRAFORM;BUILDING+SCALABLE+SYSTEMS" />
 </p>
 
 <p align="center">
@@ -15,16 +15,12 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,ansible,jenkins,terraform,python" />
-
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,ansible,jenkins,terraform,python" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 ---
